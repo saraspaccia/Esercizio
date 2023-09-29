@@ -1,0 +1,140 @@
+/* Your styles here */
+
+body {
+  text-align: center;
+  line-height: 1.65;
+  color: #393d41;
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+}
+main {
+  width: 100%;
+}
+
+.logo {
+  width: 30%;
+  height: 30%;
+  margin: 4%;
+}
+.color-logo {
+  background-color: black;
+}
+.top {
+  background-image: url(../images/banner.jpg);
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
+  background-size: cover;
+}
+.top h1 {
+  color: #25a2c3;
+  padding: 4%;
+  font-size: 2rem;
+}
+.top p {
+  padding: 2%;
+  margin: 2%;
+  font-family: "Open Sans", sans-serif;
+}
+.top button {
+  background-color: #f04c2f;
+  color: white;
+  border: 0;
+  border-radius: 7%;
+  padding: 5%;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 5%;
+  font-size: 70%;
+}
+.img-notebook img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+article h3 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+}
+article div {
+  margin: 10%;
+}
+.box-red {
+  background-color: #f04c2f;
+  color: white;
+  margin: 0;
+  padding-top: 5%;
+}
+.box-red h2 {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+.box-red p {
+  padding: 5%;
+}
+aside {
+  padding-top: 5%;
+}
+
+aside img {
+  width: 100%;
+}
+aside a {
+  color: #25a2c3;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin-top: 3%;
+}
+.border-uno {
+  border: 2px solid #dee1e3;
+  border-bottom-left-radius: 1%;
+  border-bottom-right-radius: 1%;
+}
+
+.border-uno p {
+  font-size: 1rem;
+  padding-bottom: 8%;
+}
+.border-due {
+  border: 2px solid #dee1e3;
+  border-bottom-left-radius: 1%;
+  border-bottom-right-radius: 1%;
+}
+.border-due p {
+  font-size: 1rem;
+  padding-bottom: 8%;
+}
+.border-tre {
+  border: 2px solid #dee1e3;
+  border-bottom-left-radius: 1%;
+  border-bottom-right-radius: 1%;
+}
+.border-tre p {
+  font-size: 1rem;
+  padding-bottom: 8%;
+}
+footer {
+  margin: 0%;
+  padding-top: 2rem;
+}
+.footer {
+  background-color: #25a2c3;
+  padding: 10%;
+}
+.footer h2 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  padding-bottom: 3%;
+}
+.footer a {
+  color: #c8e7f0;
+}
+hr {
+  color: white;
+  width: 50%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.copy {
+  color: #c8e7f0;
+  font-size: 1rem;
+}
